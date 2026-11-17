@@ -1,0 +1,153 @@
+{
+ "id": 40473676,
+ "status": "Available",
+ "seats": [
+  [
+   {
+    "number": 1,
+    "status": "Gentleman"
+   },
+   {
+    "number": 4,
+    "status": "Ladies"
+   },
+   {
+    "number": 7,
+    "status": "Available"
+   },
+   {
+    "number": 10,
+    "status": "Available"
+   },
+   null,
+   {
+    "number": 14,
+    "status": "Gentleman"
+   },
+   {
+    "number": 17,
+    "status": "Available"
+   },
+   {
+    "number": 20,
+    "status": "Available"
+   },
+   {
+    "number": 23,
+    "status": "Available"
+   }
+  ],
+  [
+   {
+    "number": 2,
+    "status": "Gentleman"
+   },
+   {
+    "number": 5,
+    "status": "Gentleman"
+   },
+   {
+    "number": 8,
+    "status": "Available"
+   },
+   {
+    "number": 11,
+    "status": "Available"
+   },
+   null,
+   {
+    "number": 15,
+    "status": "Gentleman"
+   },
+   {
+    "number": 18,
+    "status": "Available"
+   },
+   {
+    "number": 21,
+    "status": "Available"
+   },
+   {
+    "number": 24,
+    "status": "Available"
+   }
+  ],
+  [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  [
+   {
+    "number": 3,
+    "status": "Gentleman"
+   },
+   {
+    "number": 6,
+    "status": "Available"
+   },
+   {
+    "number": 9,
+    "status": "Gentleman"
+   },
+   {
+    "number": 12,
+    "status": "Ladies"
+   },
+   {
+    "number": 13,
+    "status": "Ladies"
+   },
+   {
+    "number": 16,
+    "status": "Gentleman"
+   },
+   {
+    "number": 19,
+    "status": "Available"
+   },
+   {
+    "number": 22,
+    "status": "Available"
+   },
+   {
+    "number": 25,
+    "status": "Available"
+   }
+  ]
+ ],
+ "destinationName": "esfahan",
+ "destinationCode": "21310000",
+ "originName": "tehran",
+ "originCode": "11320000",
+ "vehicleType": "Bus",
+ "date": "1405/08/28",
+ "availableSeatCount": 14,
+ "refundRules": [
+  {
+   "from": null,
+   "to": "-01:00:00",
+   "percent": 10.0,
+   "message": "تا ۱ ساعت قبل حرکت"
+  },
+  {
+   "from": "-01:00:00",
+   "to": null,
+   "percent": 50.0,
+   "message": "کمتر از ۱ ساعت به حرکت"
+  }
+ ],
+ "companyCode": "RO11321007",
+ "companyId": 711,
+ "isSpecialCharter": false,
+ "originGeoLocation": "35.7379355,51.4185813",
+ "destinationGeoLocation": "32.7004841,51.6739845",
+ "midwayGeoLocation": "",
+ "midwaysGeoLocations": []
+}

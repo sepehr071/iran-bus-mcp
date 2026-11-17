@@ -1,0 +1,62 @@
+[
+ {
+  "id": 472,
+  "code": "26332000",
+  "name": "ilkhchi",
+  "persianName": "ایلخچی",
+  "provinceName": "East-Azerbaijan",
+  "provincePersianName": "آذربایجان شرقی",
+  "isCapital": false,
+  "order": 1
+ },
+ {
+  "id": 42,
+  "code": "26310000",
+  "name": "tabriz",
+  "persianName": "تبریز",
+  "provinceName": "East-Azerbaijan",
+  "provincePersianName": "آذربایجان شرقی",
+  "isCapital": true,
+  "order": 1
+ },
+ {
+  "id": 4,
+  "code": "21310000",
+  "name": "esfahan",
+  "persianName": "اصفهان",
+  "provinceName": "Isfahan",
+  "provincePersianName": "اصفهان",
+  "isCapital": true,
+  "order": 1
+ },
+ {
+  "id": 1,
+  "code": "11320000",
+  "name": "tehran",
+  "persianName": "تهران",
+  "provinceName": "Tehran",
+  "provincePersianName": "تهران",
+  "isCapital": true,
+  "order": 2
+ },
+ {
+  "id": 21,
+  "code": "31310000",
+  "name": "mashhad",
+  "persianName": "مشهد",
+  "provinceName": "Razavi-Khorasan",
+  "provincePersianName": "خراسان رضوی",
+  "isCapital": true,
+  "order": 1
+ },
+ {
+  "id": 12,
+  "code": "41310000",
+  "name": "shiraz",
+  "persianName": "شیراز",
+  "provinceName": "Fars",
+  "provincePersianName": "فارس",
+  "isCapital": true,
+  "order": 1
+ }
+]
