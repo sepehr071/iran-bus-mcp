@@ -1,9 +1,9 @@
 [project]
 name = "iran-bus-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "Unofficial read-only MCP server for Iranian intercity bus tickets (Safar724): cities, trips, prices in Toman, free seats, cheapest ticket."
 readme = "README.md"
-license = "MIT"
+license = "PolyForm-Noncommercial-1.0.0"
 license-files = ["LICENSE"]
 authors = [{ name = "Sepehr Radmard", email = "sepehrr80@gmail.com" }]
 requires-python = ">=3.10"
