@@ -73,7 +73,7 @@ A real answer (`bus_cheapest`, Tehran to Isfahan, 17 Nov 2026 for 1405/08/27): t
 
 ## Limits
 
-- Only Safar724 works. payaneh.ir (پایانه) was mapped but is not implemented: its API needs a per-request signature header that the site's own scripts compute, and this server does not forge it.
+- Only Safar724 works. payaneh.ir (پایانه) is not supported.
 - Trips come only for days Safar724 sells; a past date is refused. Trips that continue past the destination are listed with their `via` city.
 - The site's VIP flag is unreliable, so VIP is read from the bus-type text.
 - Prices and free seats are a snapshot. Booking and payment happen on safar724.com.

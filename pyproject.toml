@@ -1,6 +1,6 @@
 [project]
 name = "iran-bus-mcp"
-version = "0.1.1"
+version = "0.1.2"
 description = "Unofficial read-only MCP server for Iranian intercity bus tickets (Safar724): cities, trips, prices in Toman, free seats, cheapest ticket."
 readme = "README.md"
 license = "PolyForm-Noncommercial-1.0.0"
