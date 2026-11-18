@@ -79,10 +79,6 @@ A real answer (`bus_cheapest`, Tehran to Isfahan, 17 Nov 2026 for 1405/08/27): t
 - Prices and free seats are a snapshot. Booking and payment happen on safar724.com.
 - Works from Iranian and foreign networks (tested from both). Set `IRAN_BUS_MCP_PROXY` if your network blocks it; the server ignores system proxy variables on purpose.
 
-## How it works
-
-Safar724 has no public API. The endpoints behind its public search page were mapped in Chrome, and the tools were checked in Chrome against the real pages (trips, prices, seats and terminals matched). The server sends the same requests the page sends, with a browser-like client, a short cache and low concurrency.
-
 ## فارسی
 
 <div dir="rtl">
